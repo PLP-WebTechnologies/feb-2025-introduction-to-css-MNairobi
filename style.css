@@ -1,0 +1,57 @@
+/* General Body Style */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Style */
+header {
+    background-color: #4CAF50; /* Green background */
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    font-family: 'Verdana', sans-serif;
+}
+
+/* Styling Content Section */
+.content {
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+}
+
+.content h2 {
+    color: #333;
+}
+
+/* Styling Paragraph with ID */
+#css-info {
+    color: #555;
+    font-size: 1.1em;
+}
+
+/* Image Styling using ID */
+#sample-image {
+    width: 100%;
+    max-width: 400px;
+    margin: 20px auto;
+    display: block;
+    border-radius: 8px;
+}
+
+/* Footer Styling */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
